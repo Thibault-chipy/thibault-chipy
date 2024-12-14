@@ -27,11 +27,11 @@ Je m'appelle Thibault et je suis actuellement étudiant en **2ème année BUT In
 Je suis en recherche active d'un stage en **développement web** ou **développement d'application** pour mon **BUT 2**. N'hésitez pas à me contacter pour toute opportunité !
 
 ### 📄 Mon CV
-Vous pouvez télécharger mon CV en cliquant ici : [Télécharger mon CV](./cv.pdf)
+Vous pouvez télécharger mon CV en cliquant ici : [Télécharger mon CV](./CV_CHIPY_Thibault.pdf)
 
 ## 📫 Me contacter
 - **E-mail** : tchipy@iutbayonne.univ-pau.fr
 - **LinkedIn** : www.linkedin.com/in/thibault-chipy
 - **Portfolio** : https://chipythibault.wordpress.com/
 
-Merci de visiter mon profil GitHub et de découvrir mes projets ! 😄
+Merci de visiter mon profil GitHub et de découvrir mes projets ! �
