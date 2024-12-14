@@ -2,7 +2,7 @@
 
 ## 🌟 À propos de moi
 
-Je suis actuellement étudiant en **BUT Informatique**, passionné par le développement logiciel, les bases de données et le développement web. Je travaille sur divers projets alliant programmation, conception et innovation.
+Je m'appelle Thibault et je suis actuellement étudiant en **2ème année BUT Informatique** à l'IUT de Bayonne et du Pays Basque, passionné par le développement logiciel, les bases de données et le développement web. Je travaille sur divers projets alliant programmation, conception et innovation.
 
 ### 🎓 Formation
 - **BUT Informatique** 
