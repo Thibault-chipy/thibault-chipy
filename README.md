@@ -11,7 +11,7 @@ Je m'appelle Thibault et je suis actuellement étudiant en **2ème année BUT In
 
 ### 🛠️ Compétences
 - **Langages** : C++, Java, C, HTML/CSS, PHP, JavaScript, SQL
-- **Frameworks et outils** : Bootstrap, Twig
+- **Frameworks et outils** : Laravel, Bootstrap, Twig
 - **Systèmes** : UNIX/Linux, Windows
 - **Autres** : Gestion de projets, Agilité, Scrum
 
