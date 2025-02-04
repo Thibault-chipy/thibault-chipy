@@ -34,4 +34,4 @@ Vous pouvez télécharger mon CV en cliquant ici : [Télécharger mon CV](./CV_C
 - **LinkedIn** : www.linkedin.com/in/thibault-chipy
 - **Portfolio** : https://chipythibault.wordpress.com/
 
-Merci de visiter mon profil GitHub et de découvrir mes projets ! �
+Merci de visiter mon profil GitHub et de découvrir mes projets !
