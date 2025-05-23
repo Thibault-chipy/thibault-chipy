@@ -6,8 +6,7 @@ Je m'appelle Thibault et je suis actuellement étudiant en **2ème année BUT In
 
 ### 🎓 Formation
 - **BUT Informatique** 
-  - Stage prévu : 7 avril 2025 au 13 juin 2025
-  - Actuellement en recherche d'un stage pour cette période
+  - Stage en cours : 7 avril 2025 au 13 juin 2025
 
 ### 🛠️ Compétences
 - **Langages** : C++, Java, C, HTML/CSS, PHP, JavaScript, SQL
@@ -21,10 +20,6 @@ Je m'appelle Thibault et je suis actuellement étudiant en **2ème année BUT In
 - **Gestion de version** : Git, GitHub
 - **Autres logiciels** : Docker, Figma, Modelio, Qt Creator
 
-
-
-### 🔍 En recherche
-Je suis en recherche active d'un stage en **développement web** ou **développement d'application** pour mon **BUT 2**. N'hésitez pas à me contacter pour toute opportunité !
 
 ### 📄 Mon CV
 Vous pouvez télécharger mon CV en cliquant ici : [Télécharger mon CV](./A_CV_CHIPY_Thibault.pdf)
