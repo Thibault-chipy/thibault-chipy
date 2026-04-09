@@ -27,5 +27,5 @@ Vous pouvez télécharger mon CV en cliquant ici : [Télécharger mon CV](./A_CV
 ## 📫 Me contacter
 - **E-mail** : tchipy@iutbayonne.univ-pau.fr
 - **LinkedIn** : www.linkedin.com/in/thibault-chipy
-- **Portfolio** : https://chipythibault.wordpress.com/
+- **Portfolio** : https://thibault-chipy.github.io/portfolio/
 
