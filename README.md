@@ -25,7 +25,7 @@ Je m'appelle Thibault et je suis actuellement étudiant en **3ème année BUT In
 Vous pouvez télécharger mon CV en cliquant ici : [Télécharger mon CV](./A_CV_CHIPY_Thibault.pdf)
 
 ## 📫 Me contacter
-- **E-mail** : tchipy@iutbayonne.univ-pau.fr
+- **E-mail** : chipythibault@gmail.com
 - **LinkedIn** : www.linkedin.com/in/thibault-chipy
-- **Portfolio** : https://thibault-chipy.github.io/portfolio/
+- **Portfolio** : chipythibault.fr
 
