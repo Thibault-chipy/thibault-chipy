@@ -27,5 +27,5 @@ Vous pouvez télécharger mon CV en cliquant ici : [Télécharger mon CV](./A_CV
 ## 📫 Me contacter
 - **E-mail** : chipythibault@gmail.com
 - **LinkedIn** : www.linkedin.com/in/thibault-chipy
-- **Portfolio** : chipythibault.fr
+- **Portfolio** : [chipythibault.fr](https://chipythibault.fr/)
 
