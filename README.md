@@ -2,11 +2,11 @@
 
 ## 🌟 À propos de moi
 
-Je m'appelle Thibault et je suis actuellement étudiant en **3ème année BUT Informatique** à l'IUT de Bayonne et du Pays Basque, passionné par le développement web, les bases de données et le développement logiciel. Je travaille sur divers projets alliant programmation, conception et innovation.
+Je m'appelle Thibault et je suis passionné par le développement web et le développement logiciel. Je travaille sur divers projets alliant programmation, conception et innovation.
 
 ### 🎓 Formation
 - **BUT Informatique** 
-  - Alternance en développement fullstack web
+  - 2023-2026
 
 ### 🛠️ Compétences
 - **Langages** : HTML/CSS, PHP, JS/TS, C++, Java
